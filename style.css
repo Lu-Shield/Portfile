@@ -18,7 +18,7 @@ body{
 /* Header */
 header{
     background:#0a192f;
-    color:white;
+    color: #ffffff;
     text-align:center;
     padding:40px 20px;
 }
@@ -30,7 +30,7 @@ header h1{
 
 header p{
     font-size:18px;
-    color:#b8c6db;
+    color: #ffffff;
 }
 
 /* Navbar */
@@ -89,7 +89,7 @@ header p{
 
 .hero-text h1{
     font-size:42px;
-    color: white;
+    color: #ffffff;
 }
 
 .hero-text p{
